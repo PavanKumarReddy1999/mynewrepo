@@ -3,4 +3,4 @@ y=10
 pavan=26
 and also pavan is good looking guy
 this is to check the webhook
-this is to check the poll scm in default time zone
+this is to check the poll scm in default time zone ,this will run on every miute like ***** ,but for a specific time we need to change the time zone to asia/kolkatta and then resart the jenkins services
